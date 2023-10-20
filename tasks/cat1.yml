@@ -83,6 +83,7 @@
       - CCI-000366
       - CAT1
       - audit
+      - ad1.home
 
 # Using ansible.windows.win_service_info because there is a bug in win_service with permissions
 # Below is the link to the most recent thing I can find on the issue. There are a few others that are the same but a bit older
